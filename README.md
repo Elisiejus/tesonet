@@ -1,3 +1,3 @@
 # tesonet
 
-Kaunas/Adroid
+Kaunas/Android
